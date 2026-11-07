@@ -9,7 +9,7 @@
       and online tools such as ExifTool, ExcelTool.io and Hexed.it was used for this investigation
     - The analysis was a challenge to help develop analytical skill in investigating and reporting
 
-##Summary
+## Summary
 
 I investigated a suspected phishing email threat that was received by the CoCanda Representative, an Amry Major 
 after a Tabletop-exercise which was presided by the President of the Planet was carried out to discuss the civil unrest and abduction 
