@@ -2,11 +2,17 @@
 
 
 Time: Mon, 25 Jan 2021 22:41:18 -0800 (PST)
+
 Delivered to: themajoronearth@gmail.com
+
 Subject: A Hope to CoCanDa
+
 From: "Bill" <billjobs@microapple.com>
+
 Return-path: <billjobs@microapple.com>
+
 Reply-to: negeja3921@pashter.com
+
 Email service used: emkei.cz
 
 
